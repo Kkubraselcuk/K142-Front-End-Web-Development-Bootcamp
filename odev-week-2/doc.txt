@@ -1,0 +1,10 @@
+- Sayfa ilk açıldığında Username ve password alan inputlar olucak bunlar admin admin olabilir.                  
+- Eğer doğru girerse sayfaya geçiş yapıcak.                                                                     
+- https://swapi.dev/api/people bu endpoint'e istek atıp.                                                        
+- Tabloda Kişilerin, name, height, gender ve film bilgileri olucak.                                             
+- Tablonun yukarısında bir search olucak ve name göre filtreleyecek.                                            
+- Search butonun yanından dropdown olucak burdan female / male seçildiğinde ona göre kişileri getirecek.
+- Tabloda son kolonda silme butonu olucak tıkladığında veriyi silecek.                                          
+- Veriler gelene kadar loading  olucak.                                                                         
+- Class component ve functional component iki türlü de yazılacak.
+- Tasarım önemli. (CSS)
